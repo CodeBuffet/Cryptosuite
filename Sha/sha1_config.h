@@ -10,7 +10,7 @@
 	#include <sys/time.h>
 	#include <unistd.h>
 #else
-	#include "arduino.h"
+	#include <Arduino.h>
 #endif
 
 #if  (defined(__linux) || defined(linux)) || defined(__ARDUINO_X86__)
@@ -27,7 +27,7 @@
 #else
 	#include <avr/io.h>
 	#include <avr/pgmspace.h>
-	#include "Print.h"
+	#include <Print.h>
 #endif
 
 #include <inttypes.h>
