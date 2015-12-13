@@ -23,9 +23,11 @@
 		#include "Print.h"
 	#endif	
 #else
+  #if !defined(__PHOTON__)
 	#include <avr/io.h>
 	#include <avr/pgmspace.h>
 	#include <Print.h>
+  #endif
 #endif
 
 #include <inttypes.h>
