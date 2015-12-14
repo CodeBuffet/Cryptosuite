@@ -13,7 +13,7 @@ Current Status:
 
   SHA256 portion works on Photon. 
   To use - copy sha256.h, sha256.cpp, sha256_config.h, and Arduino.h into the Particle IDE.
-  #include sha256.h in your project
+  #include sha256.h in your project. For examples see: sha/examples/photon
 
 Below this point is unaltered ReadMe from the master.
 
