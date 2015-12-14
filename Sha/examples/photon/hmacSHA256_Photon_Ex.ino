@@ -134,8 +134,8 @@ void setup() {
   Serial.println(" micros");
   Serial.println();
   
-  Serial.println("Test: Random");
-  Serial.println("Expect:9b09ffa71b942fcb27635fbcd5b0e944bfdc63644f0713938a7f51535c3a35e2");
+  Serial.println("Test: Other");
+  Serial.println("Expect:ab06a3c89db83e9e14eae39d28d96b447d07946efbfb478463afec5d367d2812");
   Serial.print("Result:");
   ms = micros();
   Sha256.initHmac(hmacKey6,5);
