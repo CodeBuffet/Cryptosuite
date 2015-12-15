@@ -2,10 +2,10 @@ This branch is an experiment to see how hard it is to adapt to Particle.io's Pho
 
 The Plan:
 
-  *Copy the files into the Particle Build IDE. 
-  *Find where it breaks. 
-  *Fix dependencies - substitute and modify includes. 
-  *Change functions or Structures where required. 
+  * Copy the files into the Particle Build IDE. 
+  * Find where it breaks. 
+  * Fix dependencies - substitute and modify includes. 
+  * Change functions or Structures where required. 
   
 Please forgive me if I fail to use best practices in the fork, I'm new to this.  Suggestions are appreciated.
 
