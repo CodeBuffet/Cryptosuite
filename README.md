@@ -20,6 +20,7 @@ Current Status:
    * Test: RFC4231 4.3 Hash took : 8276 micros
    * Test: RFC4231 4.4 Hash took : 8273 micros
    * Test: RFC4231 4.5 Hash took : 8273 micros
+   * Test: RFC4231 4.6 Hash took : 8284 micros  But the result looks like Test: RFC4868 AUTH256-2 (not truncated)
    * Test: RFC4231 4.7 Hash took : 8475 micros
    * Test: RFC4231 4.8 Hash took : 8609 micros
 
