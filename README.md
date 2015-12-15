@@ -13,17 +13,17 @@ Current Status:
 
   * SHA256 portion works on Photon. 
   * To use - copy sha256.h, sha256.cpp, sha256_config.h, and Arduino.h into the Particle IDE.
-  * #include sha256.h in your project. For examples see: sha/examples/photon
+  * include sha256.h in your project. For examples see: sha/examples/photon
   
   Results of Photon Test:   
    * Test: RFC4231 4.2 Hash took : 8265 micros
    * Test: RFC4231 4.3 Hash took : 8276 micros
-   *  Test: RFC4231 4.4 Hash took : 8273 micros
+   * Test: RFC4231 4.4 Hash took : 8273 micros
    * Test: RFC4231 4.5 Hash took : 8273 micros
    * Test: RFC4231 4.7 Hash took : 8475 micros
    * Test: RFC4231 4.8 Hash took : 8609 micros
 
-## Below this point is unaltered ReadMe from the master.
+Below this point is unaltered ReadMe from the master.
 
 Please see the full documentation at http://spaniakos.github.io/Cryptosuite
 
