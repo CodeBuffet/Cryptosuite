@@ -2,7 +2,7 @@
 //Sha256.print("this is the data to hash"); // loads the string data to hash
 //Sha256.initHmac(arrayName,arrayLength); // selects the secret key stored in array
 //printHash(Sha256.resultHmac()); // prints the resulting signature of the hashed data
-
+#include "Arduino.h"
 #include "sha256.h"
 
 
