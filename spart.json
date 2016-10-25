@@ -1,0 +1,7 @@
+{
+  "name": "CryptoSuite",
+  "author": "CryptoSuite Team",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "Cryptosuite is a cryptographic library for Arduino (including SHA and HMAC-SHA)"
+}
