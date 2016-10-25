@@ -1,4 +1,4 @@
-#include "sha256.h"
+#include "CryptoSuite.h"
 
 #if defined(__PHOTON__)
 const uint32_t sha256K[] = {
