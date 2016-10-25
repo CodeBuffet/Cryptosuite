@@ -1,3 +1,7 @@
+This fork is a valid Photon library, only SHA256 is supported at the moment.
+
+------
+
 This branch is an experiment to see how hard it is to adapt to Particle.io's Photon Device.
 
 The Plan:
